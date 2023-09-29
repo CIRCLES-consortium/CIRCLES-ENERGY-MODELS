@@ -23,7 +23,7 @@ Compact refers to a light-duty compact sedan.
 midBase refers to a light-duty midsize sedan.
 Pickup refers to a light-duty midsize pickup truck.
 Class4PND refers to a medium-duty truck for pickup and delivery.
-Class8Tractor refers to a medium-duty truck with manual transmission and a trailer.
+Class8Tractor refers to a heavy-duty truck with manual transmission and a trailer.
 Simplified models are provided explicitly (energy model file evaluates).
 Semi-principled models are provided as evaluations on a 3D grid (energy model interpolates).
 Drive cycles are provided as speeds sampled at 10Hz.
